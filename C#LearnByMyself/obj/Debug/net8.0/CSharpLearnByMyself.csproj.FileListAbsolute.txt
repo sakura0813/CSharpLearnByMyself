@@ -1,0 +1,14 @@
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\bin\Debug\net8.0\CSharpLearnByMyself.exe
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\bin\Debug\net8.0\CSharpLearnByMyself.deps.json
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\bin\Debug\net8.0\CSharpLearnByMyself.runtimeconfig.json
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\bin\Debug\net8.0\CSharpLearnByMyself.dll
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\bin\Debug\net8.0\CSharpLearnByMyself.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\obj\Debug\net8.0\CSharpLearnByMyself.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\obj\Debug\net8.0\CSharpLearnByMyself.AssemblyInfoInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\obj\Debug\net8.0\CSharpLearnByMyself.AssemblyInfo.cs
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\obj\Debug\net8.0\CSharpLearnByMyself.csproj.CoreCompileInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\obj\Debug\net8.0\CSharpLearnByMyself.dll
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\obj\Debug\net8.0\refint\CSharpLearnByMyself.dll
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\obj\Debug\net8.0\CSharpLearnByMyself.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\obj\Debug\net8.0\CSharpLearnByMyself.genruntimeconfig.cache
+C:\Users\97770\Desktop\C#LearnByMyself\C#LearnByMyself\obj\Debug\net8.0\ref\CSharpLearnByMyself.dll

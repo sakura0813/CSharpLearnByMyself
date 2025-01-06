@@ -1,0 +1,15 @@
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\bin\Debug\net8.0\Part2.exe
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\bin\Debug\net8.0\Part2.deps.json
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\bin\Debug\net8.0\Part2.runtimeconfig.json
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\bin\Debug\net8.0\Part2.dll
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\bin\Debug\net8.0\Part2.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\Part2.AssemblyInfoInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\Part2.AssemblyInfo.cs
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\Part2.csproj.CoreCompileInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\Part2.sourcelink.json
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\Part2.dll
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\refint\Part2.dll
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\Part2.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\Part2.genruntimeconfig.cache
+C:\Users\97770\Desktop\C#LearnByMyself\Part1\obj\Debug\net8.0\ref\Part2.dll

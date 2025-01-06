@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSharpLearnByMyself")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Part1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff34a46ba896639b69c774ef2df90960365cb27d")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSharpLearnByMyself")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSharpLearnByMyself")]
+[assembly: System.Reflection.AssemblyProductAttribute("Part1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Part1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

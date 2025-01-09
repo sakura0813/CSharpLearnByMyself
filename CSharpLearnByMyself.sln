@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpLearnByMyself", "CSha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part2", "Part1\Part2.csproj", "{C24906F2-130F-4425-AA6D-FDEB507415EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "part3", "part3\part3.csproj", "{7232BB49-6105-4ACA-B055-6C8F0126FECA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C24906F2-130F-4425-AA6D-FDEB507415EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C24906F2-130F-4425-AA6D-FDEB507415EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C24906F2-130F-4425-AA6D-FDEB507415EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7232BB49-6105-4ACA-B055-6C8F0126FECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7232BB49-6105-4ACA-B055-6C8F0126FECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7232BB49-6105-4ACA-B055-6C8F0126FECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7232BB49-6105-4ACA-B055-6C8F0126FECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

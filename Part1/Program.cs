@@ -155,6 +155,7 @@
 
             //从用户哪里获取文本输入
             Console.WriteLine("Type your first name and press Enter:");
+            //输入的字符串可以为空
             string? firstName = Console.ReadLine();
             Console.WriteLine("Type your first age and press Enter:");
             string? age = Console.ReadLine();

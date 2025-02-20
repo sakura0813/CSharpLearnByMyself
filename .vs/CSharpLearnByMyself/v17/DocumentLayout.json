@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}|Part5ClassLibrary\\Part5ClassLibrary.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\part5classlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}|Part5ClassLibrary\\Part5ClassLibrary.csproj|solutionrelative:part5classlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E1AECD-99DA-47CD-9934-F36E9A7D6081}|part5\\part5.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\part5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E1AECD-99DA-47CD-9934-F36E9A7D6081}|part5\\part5.csproj|solutionrelative:part5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}|Part5ClassLibrary\\Part5ClassLibrary.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\part5classlibrary\\vhical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}|Part5ClassLibrary\\Part5ClassLibrary.csproj|solutionrelative:part5classlibrary\\vhical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F55C3B-3BF8-42C8-98A9-01AEAE5F542A}|part4\\part4.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\part4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F55C3B-3BF8-42C8-98A9-01AEAE5F542A}|part4\\part4.csproj|solutionrelative:part4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7232BB49-6105-4ACA-B055-6C8F0126FECA}|part3\\part3.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\part3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7232BB49-6105-4ACA-B055-6C8F0126FECA}|part3\\part3.csproj|solutionrelative:part3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\Part5ClassLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "Part5ClassLibrary\\Person.cs",
+              "ToolTip": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\Part5ClassLibrary\\Person.cs",
+              "RelativeToolTip": "Part5ClassLibrary\\Person.cs",
+              "ViewState": "AgIAACEAAAAANDMzMzMLwDoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T06:17:08.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vhical.cs",
+              "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\Part5ClassLibrary\\Vhical.cs",
+              "RelativeDocumentMoniker": "Part5ClassLibrary\\Vhical.cs",
+              "ToolTip": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\Part5ClassLibrary\\Vhical.cs",
+              "RelativeToolTip": "Part5ClassLibrary\\Vhical.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:47:48.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\part5\\Program.cs",
+              "RelativeDocumentMoniker": "part5\\Program.cs",
+              "ToolTip": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\part5\\Program.cs",
+              "RelativeToolTip": "part5\\Program.cs",
+              "ViewState": "AgIAABcAAACAmZmZmZkbwDUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:54:42.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\part4\\Program.cs",
+              "RelativeDocumentMoniker": "part4\\Program.cs",
+              "ToolTip": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\part4\\Program.cs",
+              "RelativeToolTip": "part4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:19:19.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\part3\\Program.cs",
               "RelativeDocumentMoniker": "part3\\Program.cs",
               "ToolTip": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\part3\\Program.cs",
               "RelativeToolTip": "part3\\Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAACAAAAAAAAiwJgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:43:00.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T04:43:00.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\Part1\\Program.cs",
               "RelativeDocumentMoniker": "Part1\\Program.cs",

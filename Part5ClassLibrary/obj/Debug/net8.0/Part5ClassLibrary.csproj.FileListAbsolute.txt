@@ -1,0 +1,12 @@
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\bin\Debug\net8.0\Part5ClassLibrary.deps.json
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\bin\Debug\net8.0\Part5ClassLibrary.dll
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\bin\Debug\net8.0\Part5ClassLibrary.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\obj\Debug\net8.0\Part5ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\obj\Debug\net8.0\Part5ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\obj\Debug\net8.0\Part5ClassLibrary.AssemblyInfo.cs
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\obj\Debug\net8.0\Part5ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\obj\Debug\net8.0\Part5ClassLibrary.sourcelink.json
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\obj\Debug\net8.0\Part5ClassLibrary.dll
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\obj\Debug\net8.0\refint\Part5ClassLibrary.dll
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\obj\Debug\net8.0\Part5ClassLibrary.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\Part5ClassLibrary\obj\Debug\net8.0\ref\Part5ClassLibrary.dll

@@ -54,7 +54,7 @@
 
             double g = 9.8;
             //在这里，h是10，因为向上圆整，0.5向上进1，0.5，以下忽略。如果是0.5的话，看各位奇数向上圆整，单数向下圆整
-            int h = System.Convert.ToInt32( g );
+            int h = System.Convert.ToInt32(g);
             Console.WriteLine($"h is {h}");
 
             int number = 12;
@@ -89,6 +89,65 @@
             {
                 Console.WriteLine("There are something wrong!");
             }
+
+
+            //处理异常
+            Console.WriteLine("WHat's your age?");
+
+            string? myAge = Console.ReadLine();
+            try
+            {
+                int myAgeParse = int.Parse(myAge);
+                Console.WriteLine($"My age is {myAgeParse}");
+            }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine($"{ex.GetType()} says {ex.Message}");
+            }
+            Console.WriteLine("End Parse");
+
+            //使用过滤器捕获异常
+            
+            Console.WriteLine("Enter an amount:");
+            string? amount = Console.ReadLine();
+
+            try
+            {
+                decimal dc = decimal.Parse(amount);
+            }
+            //在catch后添加when语句，用于添加过滤条件
+            catch (FormatException) when (amount.Contains("$"))
+            {
+
+                Console.WriteLine("amount cannot use $ sign!");
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Amount must only contain digits");
+            }
+
+            //检查溢出
+
+            try
+            {
+                checked
+                {
+                    int intcheck = int.MaxValue - 1;
+                    for (int i = 0; i < 8; i++)
+                    {
+                        intcheck++;
+                        Console.WriteLine($"After incrementing :{intcheck}");
+                    }
+                }
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("The code overflowed but I caught the exception");
+            }
+
+
+
         }
     }
 }

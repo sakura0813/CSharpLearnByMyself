@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "part3", "part3\part3.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "part4", "part4\part4.csproj", "{31F55C3B-3BF8-42C8-98A9-01AEAE5F542A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "part5", "part5\part5.csproj", "{00E1AECD-99DA-47CD-9934-F36E9A7D6081}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "part5", "part5\part5.csproj", "{00E1AECD-99DA-47CD-9934-F36E9A7D6081}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part5ClassLibrary", "Part5ClassLibrary\Part5ClassLibrary.csproj", "{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part5ClassLibrary", "Part5ClassLibrary\Part5ClassLibrary.csproj", "{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITheima_继承", "ITheima_继承\ITheima_继承.csproj", "{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

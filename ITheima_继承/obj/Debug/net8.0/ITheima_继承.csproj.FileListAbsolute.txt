@@ -1,0 +1,15 @@
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\bin\Debug\net8.0\ITheima_继承.exe
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\bin\Debug\net8.0\ITheima_继承.deps.json
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\bin\Debug\net8.0\ITheima_继承.runtimeconfig.json
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\bin\Debug\net8.0\ITheima_继承.dll
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\bin\Debug\net8.0\ITheima_继承.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\ITheima_继承.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\ITheima_继承.AssemblyInfoInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\ITheima_继承.AssemblyInfo.cs
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\ITheima_继承.csproj.CoreCompileInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\ITheima_继承.sourcelink.json
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\ITheima_继承.dll
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\refint\ITheima_继承.dll
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\ITheima_继承.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\ITheima_继承.genruntimeconfig.cache
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_继承\obj\Debug\net8.0\ref\ITheima_继承.dll

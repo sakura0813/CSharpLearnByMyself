@@ -24,6 +24,16 @@
         {
 
         }
+        //使用这种方法相当于重载构造函数
+        public People(int Id) : this(Id, "Tom", "男")
+        {
+            this.Id = Id;
+        }
+        public People(int Id, string Name) : this(Id, Name, "男")
+        {
+            this.Name = Name;
+            this.Id = Id;
+        }
         public People(int Id, string Name, string Gender)
         {
             this.Id = Id;

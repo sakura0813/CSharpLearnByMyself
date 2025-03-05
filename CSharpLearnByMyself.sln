@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "part5", "part5\part5.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part5ClassLibrary", "Part5ClassLibrary\Part5ClassLibrary.csproj", "{F924A6A3-03AF-4B1B-A35E-6C4DE0CE084F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITheima_继承", "ITheima_继承\ITheima_继承.csproj", "{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITheima_继承和多态", "ITheima_继承\ITheima_继承和多态.csproj", "{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITheima_继承练习", "ITheima_继承练习\ITheima_继承练习.csproj", "{3515A07D-7DE3-4939-B3D9-899D742F4B01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITheima_静态成员静态类", "ITheima_静态成员静态类\ITheima_静态成员静态类.csproj", "{406F7776-B54E-4CE8-89EF-22E7E90D4963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITheima_as多态类型转换", "ITheima_as多态类型转换\ITheima_as多态类型转换.csproj", "{22641418-41DE-414B-B97B-96E0B2113F38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3515A07D-7DE3-4939-B3D9-899D742F4B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3515A07D-7DE3-4939-B3D9-899D742F4B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3515A07D-7DE3-4939-B3D9-899D742F4B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3515A07D-7DE3-4939-B3D9-899D742F4B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406F7776-B54E-4CE8-89EF-22E7E90D4963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406F7776-B54E-4CE8-89EF-22E7E90D4963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406F7776-B54E-4CE8-89EF-22E7E90D4963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406F7776-B54E-4CE8-89EF-22E7E90D4963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22641418-41DE-414B-B97B-96E0B2113F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22641418-41DE-414B-B97B-96E0B2113F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22641418-41DE-414B-B97B-96E0B2113F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22641418-41DE-414B-B97B-96E0B2113F38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\bin\Debug\net8.0\ITheima_as多态类型转换.exe
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\bin\Debug\net8.0\ITheima_as多态类型转换.deps.json
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\bin\Debug\net8.0\ITheima_as多态类型转换.runtimeconfig.json
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\bin\Debug\net8.0\ITheima_as多态类型转换.dll
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\bin\Debug\net8.0\ITheima_as多态类型转换.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\ITheima_as多态类型转换.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\ITheima_as多态类型转换.AssemblyInfoInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\ITheima_as多态类型转换.AssemblyInfo.cs
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\ITheima_as多态类型转换.csproj.CoreCompileInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\ITheima_as多态类型转换.sourcelink.json
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\ITheima_as多态类型转换.dll
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\refint\ITheima_as多态类型转换.dll
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\ITheima_as多态类型转换.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\ITheima_as多态类型转换.genruntimeconfig.cache
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_as多态类型转换\obj\Debug\net8.0\ref\ITheima_as多态类型转换.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITheima_继承练习")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571fc3341be39e5bc15ad75751b984a04d4a04de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+236be9bd55c4e396956c63040386d5ec0c327326")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITheima_继承练习")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITheima_继承练习")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}|ITheima_\u7EE7\u627F\\ITheima_\u7EE7\u627F.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\itheima_\u7EE7\u627F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}|ITheima_\u7EE7\u627F\\ITheima_\u7EE7\u627F.csproj|solutionrelative:itheima_\u7EE7\u627F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22641418-41DE-414B-B97B-96E0B2113F38}|ITheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362\\ITheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\itheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22641418-41DE-414B-B97B-96E0B2113F38}|ITheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362\\ITheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362.csproj|solutionrelative:itheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406F7776-B54E-4CE8-89EF-22E7E90D4963}|ITheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B\\ITheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\itheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406F7776-B54E-4CE8-89EF-22E7E90D4963}|ITheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B\\ITheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B.csproj|solutionrelative:itheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}|ITheima_\u7EE7\u627F\\ITheima_\u7EE7\u627F\u548C\u591A\u6001.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\itheima_\u7EE7\u627F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E9E193-1CBA-4F93-9AA2-1F1DD585CF71}|ITheima_\u7EE7\u627F\\ITheima_\u7EE7\u627F\u548C\u591A\u6001.csproj|solutionrelative:itheima_\u7EE7\u627F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C24906F2-130F-4425-AA6D-FDEB507415EA}|Part1\\Part2.csproj|c:\\users\\97770\\desktop\\c#learnbymyself\\part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,18 +60,43 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_\u7EE7\u627F\\Program.cs",
-              "RelativeDocumentMoniker": "ITheima_\u7EE7\u627F\\Program.cs",
-              "ToolTip": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_\u7EE7\u627F\\Program.cs",
-              "RelativeToolTip": "ITheima_\u7EE7\u627F\\Program.cs",
-              "ViewState": "AgIAADYAAAAAmZmZmZkrwDAAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362\\Program.cs",
+              "RelativeDocumentMoniker": "ITheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362\\Program.cs",
+              "ToolTip": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362\\Program.cs",
+              "RelativeToolTip": "ITheima_as\u591A\u6001\u7C7B\u578B\u8F6C\u6362\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T06:27:14.553Z",
+              "WhenOpened": "2025-03-05T00:47:12.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B\\Program.cs",
+              "RelativeDocumentMoniker": "ITheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B\\Program.cs",
+              "ToolTip": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B\\Program.cs",
+              "RelativeToolTip": "ITheima_\u9759\u6001\u6210\u5458\u9759\u6001\u7C7B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:28:39.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_\u7EE7\u627F\\Program.cs",
+              "RelativeDocumentMoniker": "ITheima_\u7EE7\u627F\\Program.cs",
+              "ToolTip": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_\u7EE7\u627F\\Program.cs",
+              "RelativeToolTip": "ITheima_\u7EE7\u627F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:27:14.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\Part5ClassLibrary\\BankAccount.cs",
               "RelativeDocumentMoniker": "Part5ClassLibrary\\BankAccount.cs",
@@ -71,12 +104,11 @@
               "RelativeToolTip": "Part5ClassLibrary\\BankAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T06:20:34.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T06:20:34.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\Part5ClassLibrary\\Person.cs",
               "RelativeDocumentMoniker": "Part5ClassLibrary\\Person.cs",
@@ -84,12 +116,11 @@
               "RelativeToolTip": "Part5ClassLibrary\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T06:17:08.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T06:17:08.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Vhical.cs",
               "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\Part5ClassLibrary\\Vhical.cs",
               "RelativeDocumentMoniker": "Part5ClassLibrary\\Vhical.cs",
@@ -101,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\part5\\Program.cs",
               "RelativeDocumentMoniker": "part5\\Program.cs",
@@ -113,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\part4\\Program.cs",
               "RelativeDocumentMoniker": "part4\\Program.cs",
@@ -125,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\part3\\Program.cs",
               "RelativeDocumentMoniker": "part3\\Program.cs",
@@ -137,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\Part1\\Program.cs",
               "RelativeDocumentMoniker": "Part1\\Program.cs",
@@ -145,8 +176,7 @@
               "RelativeToolTip": "Part1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T08:16:55.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T08:16:55.198Z"
             }
           ]
         }

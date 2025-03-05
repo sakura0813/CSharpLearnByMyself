@@ -1,4 +1,4 @@
-﻿namespace ITheima_继承
+﻿namespace ITheima_继承和多态
 {
     internal class Program
     {
@@ -19,7 +19,7 @@
     class People
     {
         //因为在Student和Teacher继承People,而People的两个子类都有自己的构造函数，而一旦调用构造函数，子类会在父类中寻找一个无参的构造函数，如果没有会出错，所以需要在这里加一个无参构造函数。
-        //为了不报错还有一种解决方式，就是让子类的构造函数继承父类的构造函数；详见46行
+        //为了不报错还有一种解决方式，就是让子类的构造函数继承父类的构造函数；详见58行
         public People()
         {
 

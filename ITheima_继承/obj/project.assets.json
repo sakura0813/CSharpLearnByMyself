@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_继承\\ITheima_继承.csproj",
-      "projectName": "ITheima_继承",
-      "projectPath": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_继承\\ITheima_继承.csproj",
+      "projectUniqueName": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_继承\\ITheima_继承和多态.csproj",
+      "projectName": "ITheima_继承和多态",
+      "projectPath": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_继承\\ITheima_继承和多态.csproj",
       "packagesPath": "C:\\Users\\97770\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\97770\\Desktop\\C#LearnByMyself\\ITheima_继承\\obj\\",
       "projectStyle": "PackageReference",

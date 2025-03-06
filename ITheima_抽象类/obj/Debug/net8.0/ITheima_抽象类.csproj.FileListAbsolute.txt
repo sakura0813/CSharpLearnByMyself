@@ -1,0 +1,15 @@
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\bin\Debug\net8.0\ITheima_抽象类.exe
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\bin\Debug\net8.0\ITheima_抽象类.deps.json
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\bin\Debug\net8.0\ITheima_抽象类.runtimeconfig.json
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\bin\Debug\net8.0\ITheima_抽象类.dll
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\bin\Debug\net8.0\ITheima_抽象类.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\ITheima_抽象类.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\ITheima_抽象类.AssemblyInfoInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\ITheima_抽象类.AssemblyInfo.cs
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\ITheima_抽象类.csproj.CoreCompileInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\ITheima_抽象类.sourcelink.json
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\ITheima_抽象类.dll
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\refint\ITheima_抽象类.dll
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\ITheima_抽象类.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\ITheima_抽象类.genruntimeconfig.cache
+C:\Users\97770\Desktop\C#LearnByMyself\ITheima_抽象类\obj\Debug\net8.0\ref\ITheima_抽象类.dll

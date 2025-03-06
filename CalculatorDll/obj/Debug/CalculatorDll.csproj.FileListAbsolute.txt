@@ -1,0 +1,6 @@
+C:\Users\97770\Desktop\C#LearnByMyself\CalculatorDll\bin\Debug\CalculatorDll.dll
+C:\Users\97770\Desktop\C#LearnByMyself\CalculatorDll\bin\Debug\CalculatorDll.pdb
+C:\Users\97770\Desktop\C#LearnByMyself\CalculatorDll\obj\Debug\CalculatorDll.csproj.AssemblyReference.cache
+C:\Users\97770\Desktop\C#LearnByMyself\CalculatorDll\obj\Debug\CalculatorDll.csproj.CoreCompileInputs.cache
+C:\Users\97770\Desktop\C#LearnByMyself\CalculatorDll\obj\Debug\CalculatorDll.dll
+C:\Users\97770\Desktop\C#LearnByMyself\CalculatorDll\obj\Debug\CalculatorDll.pdb

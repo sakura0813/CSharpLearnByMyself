@@ -21,7 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITheima_继承练习", "ITh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITheima_静态成员静态类", "ITheima_静态成员静态类\ITheima_静态成员静态类.csproj", "{406F7776-B54E-4CE8-89EF-22E7E90D4963}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITheima_as多态类型转换", "ITheima_as多态类型转换\ITheima_as多态类型转换.csproj", "{22641418-41DE-414B-B97B-96E0B2113F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITheima_as多态类型转换", "ITheima_as多态类型转换\ITheima_as多态类型转换.csproj", "{22641418-41DE-414B-B97B-96E0B2113F38}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITheima_抽象类", "ITheima_抽象类\ITheima_抽象类.csproj", "{A9CC04EC-EE66-41F0-80E8-2B6155F83590}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITheima_抽象类练习", "ITheima_抽象类练习\ITheima_抽象类练习.csproj", "{B5F5766A-56F3-4503-9E22-EB0791399DA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITheima_抽象类练习U盘案例", "ITheima_抽象类练习U盘案例\ITheima_抽象类练习U盘案例.csproj", "{43D7B53F-CB17-43CA-84FD-68F82012B637}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "计算器案例练习", "计算器案例练习", "{9EBCDD99-54DB-4E73-B0D9-F87C707889A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorDll", "CalculatorDll\CalculatorDll.csproj", "{406EC0B7-D73E-4F99-8E80-D5562094B01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate", "Calculate\Calculate.csproj", "{D13D520A-798A-46EB-AB55-094F96AC0FCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,9 +81,33 @@ Global
 		{22641418-41DE-414B-B97B-96E0B2113F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22641418-41DE-414B-B97B-96E0B2113F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22641418-41DE-414B-B97B-96E0B2113F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CC04EC-EE66-41F0-80E8-2B6155F83590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CC04EC-EE66-41F0-80E8-2B6155F83590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CC04EC-EE66-41F0-80E8-2B6155F83590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CC04EC-EE66-41F0-80E8-2B6155F83590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F5766A-56F3-4503-9E22-EB0791399DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F5766A-56F3-4503-9E22-EB0791399DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F5766A-56F3-4503-9E22-EB0791399DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F5766A-56F3-4503-9E22-EB0791399DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D7B53F-CB17-43CA-84FD-68F82012B637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D7B53F-CB17-43CA-84FD-68F82012B637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D7B53F-CB17-43CA-84FD-68F82012B637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D7B53F-CB17-43CA-84FD-68F82012B637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406EC0B7-D73E-4F99-8E80-D5562094B01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406EC0B7-D73E-4F99-8E80-D5562094B01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406EC0B7-D73E-4F99-8E80-D5562094B01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406EC0B7-D73E-4F99-8E80-D5562094B01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13D520A-798A-46EB-AB55-094F96AC0FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13D520A-798A-46EB-AB55-094F96AC0FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13D520A-798A-46EB-AB55-094F96AC0FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13D520A-798A-46EB-AB55-094F96AC0FCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{406EC0B7-D73E-4F99-8E80-D5562094B01F} = {9EBCDD99-54DB-4E73-B0D9-F87C707889A4}
+		{D13D520A-798A-46EB-AB55-094F96AC0FCE} = {9EBCDD99-54DB-4E73-B0D9-F87C707889A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {927D6EF0-0D25-47A2-BDE2-D8443E97D792}
